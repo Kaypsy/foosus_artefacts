@@ -32,7 +32,7 @@ Ce repository est un projet fictif.
    ```bash
    git clone https://github.com/Kaypsy/foosus_artefacts.git
 2. **Parcourir les documents** :
-Les contrats sont enregistrés dans le répertoires Artefacts.
+Les contrats sont enregistrés dans le répertoire Artefacts.
 
 ## Suivi des modifications
 **Le repository utilise Git pour** :
