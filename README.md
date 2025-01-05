@@ -30,7 +30,7 @@ Ce repository est un projet fictif.
 ## Utilisation du repository
 1. **Cloner le repository** :
    ```bash
-   git clone <[URL_du_repository](https://github.com/Kaypsy/foosus_artefacts.git)>
+   git clone https://github.com/Kaypsy/foosus_artefacts.git
 2. **Parcourir les documents** :
 Les contrats sont enregistrés dans le répertoires Artefacts.
 
@@ -42,7 +42,7 @@ Les contrats sont enregistrés dans le répertoires Artefacts.
 - Assurer la traçabilité : Répertorier qui a modifié quoi et pourquoi.
 
 ## Structure des répertoires
-├── Atefacts
+├── Atefacts/
 │   ├── Zephir_Louis_1_Statement_of_Architecture-Work_112024.pdf
 │   ├── Zephir_Louis_2_spécification_conditions_requises_pour_Architecture_112024.pdf
 │   └── Zephir_Louis_3_Architecture_contract_with_users_business_112024.pdf
@@ -55,5 +55,5 @@ Les contrats sont enregistrés dans le répertoires Artefacts.
 - Équipe technique Foosus
 - Architecte logiciel : Louis ZEPHIR
 Contact
-Pour toute question ou suggestion concernant ce repository, veuillez contacter [louis.zephir@y-nissy.com].
+Pour toute question ou suggestion concernant ce repository, veuillez contacter louis.zephir@y-nissy.com.
 
