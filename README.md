@@ -42,14 +42,15 @@ Les contrats sont enregistrés dans le répertoire Artefacts.
 - Assurer la traçabilité : Répertorier qui a modifié quoi et pourquoi.
 
 ## Structure des répertoires
-├── Atefacts/
+├── Artefacts/
 │   ├── Zephir_Louis_1_Statement_of_Architecture-Work_112024.pdf
 │   ├── Zephir_Louis_2_spécification_conditions_requises_pour_Architecture_112024.pdf
-│   └── Zephir_Louis_3_Architecture_contract_with_users_business_112024.pdf
-│   └── Zephir_Louis_4_architecture_contract_development_112024.pdf
-│   └── Zephir_Louis_5_presentation_112024.pdf
+│   ├── Zephir_Louis_3_Architecture_contract_with_users_business_112024.pdf
+│   ├── Zephir_Louis_4_architecture_contract_development_112024.pdf
+│   ├── Zephir_Louis_5_presentation_112024.pdf
 ├── images/
 └── README.md
+
 
 ## Contributeurs
 - Équipe technique Foosus
