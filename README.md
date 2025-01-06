@@ -16,8 +16,8 @@ Ce repository est un projet fictif.
 - **Spécification des Conditions Requises pour l’Architecture**  
   Liste les exigences fonctionnelles et techniques pour aligner l'architecture sur les besoins de l’entreprise.
 
-- **Autres documents complémentaires**  
-  Comprend les plans de migration, les processus CI/CD, et la gestion des risques.
+- **Déclaration de Travail d’Architecture**  
+Définit le périmètre et l’approche qui seront utilisés pour mener à bien un projet d’architecture.
 
 ### 2. Principaux objectifs
 - **Transition vers une architecture microservices** :  
